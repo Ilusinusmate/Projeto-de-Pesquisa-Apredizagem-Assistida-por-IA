@@ -1,0 +1,25 @@
+✅ questao0 - subtarefa1.txt - Passed (100%)
+✅ questao0 - subtarefa2.txt - Passed (100%)
+✅ questao0 - subtarefa3.txt - Passed (100%)
+✅ questao0 - subtarefa4.txt - Passed (100%)
+✅ questao1 - subtarefa1.txt - Passed (100%)
+✅ questao1 - subtarefa2.txt - Passed (100%)
+✅ questao1 - subtarefa3.txt - Passed (100%)
+✅ questao1 - subtarefa4.txt - Passed (100%)
+⚠️ questao2 - subtarefa1.txt - Partially Passed (13.0%)
+⚠️ questao2 - subtarefa2.txt - Partially Passed (0.0%)
+⚠️ questao2 - subtarefa3.txt - Partially Passed (0.0%)
+⚠️ questao2 - subtarefa4.txt - Partially Passed (0.0%)
+✅ questao3 - subtarefa1.txt - Passed (100%)
+✅ questao3 - subtarefa2.txt - Passed (100%)
+✅ questao3 - subtarefa3.txt - Passed (100%)
+✅ questao3 - subtarefa4.txt - Passed (100%)
+✅ questao4 - subtarefa1.txt - Passed (100%)
+✅ questao4 - subtarefa2.txt - Passed (100%)
+✅ questao4 - subtarefa3.txt - Passed (100%)
+✅ questao4 - subtarefa4.txt - Passed (100%)
+
+A questão zero é a outra forma de avaliação da questão2,
+levando em conta a aproximação para 1 casa decimal
+
+total = 400

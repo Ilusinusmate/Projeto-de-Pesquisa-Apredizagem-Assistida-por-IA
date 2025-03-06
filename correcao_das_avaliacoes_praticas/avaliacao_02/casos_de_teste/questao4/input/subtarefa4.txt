@@ -1,0 +1,158 @@
+Empilhar 63
+Empilhar -36
+Desempilhar
+Desempilhar
+Imprimir
+Finalizar
+
+
+Empilhar 93
+Imprimir
+Empilhar 51
+Desempilhar
+Imprimir
+Desempilhar
+Imprimir
+Empilhar 67
+Finalizar
+
+
+Empilhar -42
+Imprimir
+Empilhar -59
+Empilhar 71
+Desempilhar
+Imprimir
+Empilhar -98
+Desempilhar
+Desempilhar
+Imprimir
+Desempilhar
+Finalizar
+
+
+Empilhar 18
+Imprimir
+Empilhar -22
+Desempilhar
+Desempilhar
+Empilhar 21
+Desempilhar
+Finalizar
+
+
+Empilhar 51
+Desempilhar
+Imprimir
+Empilhar 76
+Imprimir
+Empilhar -11
+Desempilhar
+Empilhar -9
+Desempilhar
+Imprimir
+Desempilhar
+Empilhar -99
+Empilhar -57
+Desempilhar
+Imprimir
+Desempilhar
+Imprimir
+Imprimir
+Empilhar -26
+Desempilhar
+Finalizar
+
+
+Imprimir
+Empilhar 59
+Imprimir
+Desempilhar
+Imprimir
+Empilhar 63
+Empilhar -53
+Finalizar
+
+
+Empilhar -37
+Desempilhar
+Imprimir
+Empilhar 94
+Imprimir
+Desempilhar
+Empilhar -38
+Imprimir
+Empilhar 32
+Empilhar -5
+Desempilhar
+Empilhar -89
+Empilhar -88
+Empilhar -92
+Finalizar
+
+
+Imprimir
+Imprimir
+Empilhar -11
+Empilhar -72
+Imprimir
+Empilhar 17
+Imprimir
+Finalizar
+
+
+Empilhar 78
+Empilhar -31
+Desempilhar
+Imprimir
+Desempilhar
+Finalizar
+
+
+Imprimir
+Finalizar
+
+
+Empilhar -13
+Empilhar -80
+Imprimir
+Desempilhar
+Imprimir
+Imprimir
+Empilhar 94
+Imprimir
+Finalizar
+
+
+Imprimir
+Imprimir
+Finalizar
+
+
+Imprimir
+Finalizar
+
+
+Imprimir
+Empilhar 68
+Imprimir
+Empilhar 2
+Desempilhar
+Imprimir
+Desempilhar
+Imprimir
+Imprimir
+Imprimir
+Finalizar
+
+
+Empilhar 24
+Desempilhar
+Imprimir
+Empilhar 12
+Empilhar -76
+Desempilhar
+Empilhar 17
+Empilhar -18
+Imprimir
+Finalizar

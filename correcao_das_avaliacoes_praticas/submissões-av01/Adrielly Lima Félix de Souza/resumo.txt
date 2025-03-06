@@ -1,0 +1,5 @@
+questao1 - 100
+questao2 - 0 (saídas incorretas)
+questao3 - 40 (sub 3 e 1/2 da sub 4)
+questao4 - 0 (questao incompleta, saída incorreta)
+total = 140

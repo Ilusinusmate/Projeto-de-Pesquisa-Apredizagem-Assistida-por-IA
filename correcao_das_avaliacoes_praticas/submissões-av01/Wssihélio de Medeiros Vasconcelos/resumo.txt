@@ -1,0 +1,5 @@
+questão1 - 100
+questão2 - 100
+questão3 - 57 (tirou Raiz de 0)
+questão4 - 38 (consideirou 1 como primo)
+total = 295

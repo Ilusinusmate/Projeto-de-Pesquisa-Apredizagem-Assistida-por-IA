@@ -1,0 +1,18 @@
+✅ questao1 - subtarefa1.txt - Passed (100%)
+✅ questao1 - subtarefa2.txt - Passed (100%)
+✅ questao1 - subtarefa3.txt - Passed (100%)
+✅ questao1 - subtarefa4.txt - Passed (100%)
+✅ questao2 - subtarefa1.txt - Passed (100%)
+✅ questao2 - subtarefa2.txt - Passed (100%)
+✅ questao2 - subtarefa3.txt - Passed (100%)
+✅ questao2 - subtarefa4.txt - Passed (100%)
+✅ questao3 - subtarefa1.txt - Passed (100%)
+✅ questao3 - subtarefa2.txt - Passed (100%)
+✅ questao3 - subtarefa3.txt - Passed (100%)
+✅ questao3 - subtarefa4.txt - Passed (100%)
+✅ questao4 - subtarefa1.txt - Passed (100%)
+✅ questao4 - subtarefa2.txt - Passed (100%)
+✅ questao4 - subtarefa3.txt - Passed (100%)
+✅ questao4 - subtarefa4.txt - Passed (100%)
+
+total = 400

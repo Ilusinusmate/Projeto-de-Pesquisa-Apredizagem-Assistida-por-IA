@@ -1,0 +1,5 @@
+questão1 - 100
+questão2 - 0 (não dá print em nada)
+questão3 - 0 (print da forma errada)
+questão4 - 0
+total = 100

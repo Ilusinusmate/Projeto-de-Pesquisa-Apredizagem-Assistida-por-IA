@@ -1,0 +1,5 @@
+questão1 - 0 (gera erro: "unexpected indent")
+questão2 - 0 (gera erro: "invalid sintax")
+questão3 - 38.5
+questão4 - 0 (saídas erradas)
+total = 38.5

@@ -1,21 +1,123 @@
-# Projeto de Pesquisa
+# Análise de Impacto da Inteligência Artificial no Ensino de Python
 
 ## Descrição do Projeto
-  O cenário educacional está passando por uma transformação significativa impulsionada pela rápida evolução da inteligência artificial (IA), sobretudo a chamada generativa que processa linguagem natural. A IA oferece um enorme potencial para revolucionar a forma como ensinamos e aprendemos, abrindo caminho para experiências mais personalizadas, envolventes e eficazes. Com o avanço cada vez mais flagrante da chamada IA cognitiva (FERREIRA, 2022), diversas áreas do conhecimento e da atuação humana estão em processo contínuo de reflexão sobre seu respectivo futuro diante dos impactos já em curso. É nesta perspectiva, que pesquisadores diversos têm se debruçado sobre a nova era da educação diante do papel da inteligência artificial que processa a linguagem natural nos atuais modelos de educação.
+Este repositório contém os dados e materiais utilizados em uma pesquisa experimental para avaliar o impacto do uso da Inteligência Artificial (IA) no ensino de Python. O estudo foi conduzido ao longo de quatro meses com estudantes do Instituto Federal da Paraíba (IFPB) e da Escola Cidadã Integral Técnica (ECIT) Braulio Maia Júnior. Durante esse período, os alunos participaram de aulas semanais sobre programação em Python, abrangendo desde conceitos básicos de entrada e saída de dados até estruturas de dicionários.
 
-  Este projeto de pesquisa tem como objetivo geral analisar o impacto da IA generativa no ensino de Python, comparando o desempenho e a aprendizagem dos alunos em salas de aula que utilizam recursos de IA com aqueles que não contam com essa tecnologia. Do ponto de vista da questão-problema, formulamos o seguinte: **Qual é o impacto da integração da inteligência artificial generativa nos processos educacionais de um curso de programação em Python, e como esse impacto se reflete no desempenho e na aprendizagem dos alunos em um contexto de sala de aula, comparativamente entre grupos com e sem acesso à IA?**
+## Metodologia
+A pesquisa seguiu um modelo de teste A/B, no qual os alunos foram divididos em dois grupos:
+- **Grupo IA**: teve acesso a ferramentas de Inteligência Artificial durante as aulas e atividades.
+- **Grupo Sem IA**: não teve acesso a ferramentas de Inteligência Artificial durante o aprendizado.
 
-  No que se refere a possíveis hipóteses, com base na questão-problema fornecida as especulações podem ser formuladas da seguinte maneira:
+Cada turma foi dividida ao meio e posicionada fisicamente de forma separada dentro da mesma sala de aula, garantindo que ambos os grupos recebessem as instruções ao mesmo tempo, sem influência mútua.
 
-  Hipótese Nula (H0): Em que não há diferença significativa no desempenho e na aprendizagem dos alunos entre o grupo experimental (com acesso à inteligência artificial generativa) e o grupo de controle (sem acesso à inteligência artificial generativa);
-  Hipótese Alternativa (H1): Há uma diferença significativa no desempenho e na aprendizagem dos alunos entre os grupos previstos, com o coletivo experimental demonstrando um desempenho superior devido à integração da IA nos processos educacionais.
+### Turmas e Distribuição
+- **Turma 1** - IFPB (Dividida em Grupo IA e Grupo Sem IA)
+- **Turma 2** - IFPB (Dividida em Grupo IA e Grupo Sem IA)
+- **Turma 3** - ECIT Braulio Maia Júnior (Dividida em Grupo IA e Grupo Sem IA)
 
-## Introdução
+### Avaliação dos Participantes
+Antes do início do experimento, os alunos foram submetidos a dois testes diagnósticos para medir seu conhecimento prévio em Python. Com base nos resultados, foram classificados nos seguintes níveis:
+- **Básico**
+- **Médio**
+- **Avançado**
 
-  Diante desse contexto, essas premissas servem como base para a análise dos dados coletados durante o estudo comparativo entre os grupos experimental e de controle, permitindo avaliar se a integração da inteligência artificial generativa teve um impacto significativo no desempenho e na aprendizagem dos alunos em um contexto de sala de aula. Nesta perspectiva, entendemos que uma pesquisa que compara o desempenho de estudantes em turmas com e sem acesso à IA como assistente virtual é crucial para entendermos o impacto dessa tecnologia no ensino e na aprendizagem. Ela pode revelar se a IA impulsiona o aprendizado e as notas, se beneficia alunos com diferentes estilos de aprendizagem e se torna o ensino mais eficaz.
+Os testes foram respectivamente:
+- ***1º teste***: Receba um número inteiro que representa a idade de um indivíduo e imprima na tela se ele é maior ou menor de idade.
 
-  Também podemos identificar se o uso dessa tecnologia permite que os professores se concentrem em tarefas mais complexas, reduz o tempo de preparação das aulas e aumenta a motivação e o engajamento dos alunos. Esse estudo comparativo pode ainda verificar se as redes neurais artificiais ampliam o acesso à educação de qualidade, reduz a disparidade entre alunos e é acessível para todos. Ao analisar os desafios e obstáculos da implementação do aprendizado de máquina em sala de aula, como custos, infraestrutura e uso ético, podemos formular políticas públicas que promovam seu uso responsável na educação.
+- ***2º teste***: Receba 6 inteiros separados por " " e imprima os indices dos inteiros maiores ou iguais à 18.
 
-  A investigação também pode abrir caminhos para o futuro, identificando as melhores práticas para o uso da IA na educação e impulsionando a inovação e o desenvolvimento de novas ferramentas desse tipo de computação avançada para o ensino. Do ponto de vista de um estudo básico ou aplicado, nossa compreensão é a de que esse exame tem um objetivo prático e específico de analisar o impacto da integração da inteligência artificial generativa nos processos educacionais, mais especificamente no ensino de programação em Python. Ela visa diretamente compreender como essa tecnologia influencia o desempenho e a aprendizagem dos alunos em um contexto de sala de aula. Ao envolver a implementação prática de um minicurso e a coleta de dados empíricos, a presente averiguação busca gerar compreensões tangíveis e aplicáveis para a prática educacional. Embora haja uma investigação teórica sobre o tema da inteligência artificial na educação, a pesquisa é projetada para gerar resultados que possam ser diretamente aplicados no contexto educacional, informando práticas de ensino e potencialmente impactando a maneira como a tecnologia é integrada na sala de aula.
+Esses dados foram utilizados para garantir uma estratificação equitativa entre os grupos, buscando minimizar a influência de conhecimento prévio na comparação dos resultados.
 
-  Em suma, o levantamento aqui proposto é crucial para o desenvolvimento da educação no futuro, guiando a integração da IA de forma eficaz e responsável para o benefício de todos os envolvidos, por isso, entendemos que essa propositura possui o potencial de gerar um impacto significativo na área da educação, de modo a contribuir para o desenvolvimento de ferramentas inovadoras que podem transformar a forma como ensinamos e aprendemos.
+## Conteúdo Ministrado
+O curso seguiu uma estrutura progressiva de ensino, cobrindo os topicos mediante o seguinte cronograma de aulas:
+
+1. Entrada de dados e Saída de dados & Variáveis e Tipoes
+2. Entrada de dados e Saída de dados & Variáveis e Tipos
+3. Operadores e Estruturas Condicionais
+4. Operadores e Estruturas Condicionais
+5. Operadores e Estruturas Condicionais
+6. Estruturas de Repetição (WHILE)
+7. Estruturas de Repetição (FOR)
+8. Estruturas de Repetição (Revisão)
+9. 1º Avaliação Geral
+10. Correção da Prova em sala e Revisão Geral
+11. Listas (Arrays) & Métodos de Listas
+12. Listas (Arrays) & Métodos de Listas
+13. Manipulação de Strings & Métodos de Strings
+14. Manipulação de Strings & Métodos de Strings
+15. Dicionários
+16. Revisão
+17. 2º Avaliação Geral
+
+
+
+## Coleta de Dados
+
+### Formulários 
+- **Feedback de Aula**: Após o final de cada aula, todos os alunos deveriam preencher um google forms com diversas perguntas, relacionada ao uso de IA, aprendizado, etc. 
+- **Periodo em Casa**: Antes do início de cada aula, os alunos deveriam preencher um google forms com perguntas relacionas ao uso de IA no período que permaneceu em casa, seu estudo como autodidata, se procorou resolver as atividades, etc.
+
+- **Feedback de Avaliação**: Após a realização de cada avaliação, todos os alunos deveriam responder um google forms à respeito da avaliação, se estudaram para esta, se acreditam que a IA auxiliaria, etc. 
+
+### Atividades
+- **Sala**: Atividades realizadas no The Huxley, passadas para os alunos em sala, conforme o conteúdo aprendido no período em questão. Os alunos com IA, poderiam utilizar IA para resolver as atividades, enquanto os alunos sem IA, não poderiam. As atividades tinham o período restrito, ou seja, só podiam ser realizadas durante à aula.
+
+- **Casa**: Atividades realizadas no The Huxley, passadas para os alunos em casa, conforme o conteúdo aprendido no período em questão. Os alunos não tinham restrição do uso de IA. As atividades tinham o período de uma aula até outra, ou seja, cerca de 1 semana.
+
+
+### Atividades Avaliativas
+
+#### Avaliações
+
+- **Avaliação 1**: Realizada após a 8ª aula, está disponível neste repositório.
+- **Avaliação 2**: Realizada após a 15ª aula, está disponível neste repositório.
+
+***Avaliações Práticas***: [Clique aqui](./Avaliações%20Práticas/)
+***Avaliações Teóriocas***: [Clique aqui](./Avaliações%20teóricas/)
+
+#### Correção das Avaliações
+ - As avaliações práticas foram corrigidas com o sistema de subtarefas e casos de teste, cada questão foi dividida em cerca de 4 subtarefas, cada uma destas contento X testes, Cada subtarefa vale o valor correspondente ao valor da questão dividido pelo número de subtarefas. Cada teste passado rende Valor da Subtarefa / X, ou seja, caso um aluno acerte 25 testes de 100 testes em uma subtarefa, ele terá 1/4 do valor total desta subtarefa.
+
+ - Os critérios e pontuações para cada subtarefa estão especificados [Segunda Prova - Aqui](./correcao_das_avaliacoes_praticas/critérios.md) e [Primeira Prova - Aqui](./correcao_das_avaliacoes_praticas/critérios2.md)
+
+ - As primeiras avaliações práticas com menor número de casos de teste, foram corrijidas utilizando o CPH Judge, já a segunda foi corrigida utilizando um sistema prórpio de correção, escrito em Dart [Aqui](./correcao_das_avaliacoes_praticas/avaliacao_02/gabarito/tester.dart).
+
+ - Os casos de teste foram elaborados seguindo cada critério, na pasta de "casos_de_teste", há uma pasta para cada questão correspondente, com os casos de teste para cada subtarefa, cada input foi gerado de forma à respeitdas os critérios definidos e cada output esperado foi gerado com as questões corrigidas.
+
+ - As questões corrigidas podem ser acessadas em [Av01 Prática](./correcao_das_avaliacoes_praticas/avaliação%2001/questões%20corrigidas/) ou [Av02 Prática](./correcao_das_avaliacoes_praticas/avaliacao_02/questões%20corrigidas/)
+
+ - Cada teste (input e output) é separado por uma sequência de "\n\n\n" dentro do arquivo de cada subtarefa, para facilitar a leitura e a correção.
+
+ - Para auditoria dos dados, basta buscar a submissão do aluno em [Submissões Av2](./correcao_das_avaliacoes_praticas/submissões-av02/) ou [Submissões Av1](./correcao_das_avaliacoes_praticas/submissões-av01/), colar na pasta gabarito e rodar o programa de correção, ele irá gerar um resumo do resultado, assim como o que está presente na pasta de submissão de cada aluno, até mesmo dos que não enviaram nenhum arquivo.
+
+ No Linux
+ 
+ ```
+    sudo apt-get install dart
+    dart ./tester.dart
+ ```
+
+No Windows
+
+ ```
+    .\tester.exe
+ ```
+
+ - Para mais informações de como rodar o programa, utilize a flag "--help"
+ 
+
+
+## Dados Disponíveis no Repositório
+- **Resultados dos Testes Diagnósticos**: Classificação dos alunos antes do início das aulas.
+- **Materiais Didáticos**: Slides, exercícios e atividades utilizadas durante o curso. Slides [Acesse](./Slides/)
+- **Dados de Desempenho**: Evolução dos alunos ao longo das aulas e comparações entre os grupos IA e Sem IA.
+- **Análises Estatísticas**: Resultados do impacto da IA no aprendizado dos alunos.
+
+- **Certificados de Conclusão**: Cada aluno que concluiu o curso recebeu um certificado de conclusão com 30h, devidamente assinado por cada professor, e coordenadores do projeto.
+
+## Contribuição
+Caso queira contribuir com a análise dos dados ou sugerir melhorias na metodologia, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
+## Licença
+Este projeto está sob a licença Creative Commons Legal Code. Veja o arquivo LICENSE para mais detalhes.
+

@@ -1,0 +1,5 @@
+questao1 - 100
+questao2 - 0 (questão incompleta, gera erro)
+questao3 - 0 (erro de sintaxe)
+questao4 - 0 (runtime error, saída incorreta)
+total = 100

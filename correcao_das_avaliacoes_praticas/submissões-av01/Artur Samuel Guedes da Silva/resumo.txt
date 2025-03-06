@@ -1,0 +1,5 @@
+questao1 - 100
+questao2 - 100
+questao3 - 100
+questao4 - 0 (questao incompleta, gerou erro)
+total = 300

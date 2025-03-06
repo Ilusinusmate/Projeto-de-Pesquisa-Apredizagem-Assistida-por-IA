@@ -1,0 +1,5 @@
+questão1 - 100
+questão2 - 20 (1/3 sub 1 e 1/3 da sub 3)
+questão3 - 0 (nao enviada)
+questão4 - 0 (nao enviada)
+total = 120

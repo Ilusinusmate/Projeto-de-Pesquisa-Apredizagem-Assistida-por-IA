@@ -1,0 +1,5 @@
+questão1 - 100
+questão2 - 100
+questão3 - 50 (errou os acentos)
+questão4 - 75 (esqueceu a palavra "número")
+total = 325

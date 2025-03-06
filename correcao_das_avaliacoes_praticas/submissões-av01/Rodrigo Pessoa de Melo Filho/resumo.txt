@@ -1,0 +1,5 @@
+questão1 - 100
+questão2 - 100
+questão3 - 70 (usou int ao invés de float)
+questão4 - 100
+total = 370

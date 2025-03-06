@@ -1,0 +1,5 @@
+questao1 - 100
+questao2 - 100
+questao3 - 0 (questão vazia)
+questao4 - 0 (gera um erro)
+total = 200

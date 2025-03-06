@@ -1,0 +1,5 @@
+questão1 - 100
+questão2 - 0 (erro de sintaxe)
+questão3 - 0 (erro de sintaxe)
+questão4 - 0 (não enviada)
+total = 100

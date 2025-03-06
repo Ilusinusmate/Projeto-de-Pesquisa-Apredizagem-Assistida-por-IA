@@ -1,0 +1,5 @@
+questão1 - 0 (resultado errado, geração de erros EOF)
+questão2 - 0 (resultado de saída diferente do esperado)
+questão3 - 0 (questão não enviada)
+questão4 - 0 (questão não enviada)
+total = 0

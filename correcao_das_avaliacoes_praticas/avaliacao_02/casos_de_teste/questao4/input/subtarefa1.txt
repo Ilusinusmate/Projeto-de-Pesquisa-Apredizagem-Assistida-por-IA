@@ -1,0 +1,575 @@
+Empilhar 55
+Empilhar 50
+Empilhar 7
+Empilhar 38
+Empilhar 5
+Empilhar 37
+Imprimir
+Finalizar
+
+
+Empilhar 13
+Empilhar -55
+Empilhar -85
+Empilhar 43
+Empilhar 20
+Empilhar -37
+Empilhar -33
+Empilhar -94
+Empilhar 55
+Empilhar 59
+Empilhar -48
+Empilhar -26
+Empilhar -77
+Imprimir
+Finalizar
+
+
+Empilhar -35
+Empilhar 67
+Empilhar -38
+Empilhar -63
+Empilhar -1
+Empilhar -98
+Empilhar 98
+Empilhar 2
+Empilhar 22
+Empilhar 38
+Imprimir
+Finalizar
+
+
+Empilhar 90
+Empilhar 86
+Empilhar -5
+Imprimir
+Finalizar
+
+
+Empilhar -1
+Empilhar -86
+Empilhar 31
+Empilhar 91
+Empilhar 77
+Empilhar 48
+Empilhar -38
+Empilhar -47
+Empilhar 77
+Empilhar -17
+Empilhar 8
+Empilhar 4
+Empilhar 27
+Empilhar -80
+Empilhar 36
+Imprimir
+Finalizar
+
+
+Empilhar -84
+Empilhar -45
+Empilhar 48
+Empilhar 66
+Empilhar 4
+Empilhar -60
+Empilhar 29
+Empilhar -10
+Empilhar 92
+Empilhar -44
+Empilhar 4
+Empilhar -88
+Empilhar -35
+Empilhar -24
+Empilhar -66
+Empilhar 54
+Empilhar -68
+Empilhar -29
+Imprimir
+Finalizar
+
+
+Empilhar 86
+Empilhar 62
+Empilhar -29
+Empilhar -97
+Empilhar 11
+Empilhar -97
+Empilhar -51
+Empilhar -74
+Empilhar -81
+Empilhar 96
+Empilhar -65
+Empilhar 39
+Empilhar -7
+Empilhar -92
+Empilhar 80
+Empilhar 21
+Imprimir
+Finalizar
+
+
+Empilhar 11
+Empilhar -49
+Empilhar -80
+Empilhar 90
+Empilhar 94
+Empilhar 53
+Empilhar -71
+Empilhar 83
+Empilhar 23
+Empilhar -5
+Empilhar -87
+Empilhar -51
+Empilhar 92
+Empilhar -16
+Empilhar -19
+Empilhar -16
+Empilhar -89
+Empilhar -77
+Empilhar -74
+Empilhar -17
+Imprimir
+Finalizar
+
+
+Empilhar 94
+Empilhar 79
+Empilhar 24
+Empilhar -46
+Empilhar -37
+Empilhar -7
+Empilhar 20
+Empilhar -20
+Empilhar -30
+Empilhar 26
+Empilhar 21
+Empilhar -68
+Empilhar -53
+Empilhar -16
+Empilhar -65
+Empilhar -39
+Empilhar -18
+Empilhar 80
+Empilhar 100
+Empilhar 7
+Imprimir
+Finalizar
+
+
+Empilhar -89
+Empilhar -10
+Empilhar -53
+Empilhar -33
+Empilhar -18
+Empilhar -87
+Empilhar 62
+Empilhar -94
+Empilhar 36
+Empilhar -19
+Empilhar -13
+Empilhar 30
+Empilhar -100
+Empilhar -8
+Imprimir
+Finalizar
+
+
+Empilhar 16
+Empilhar 77
+Empilhar -11
+Imprimir
+Finalizar
+
+
+Empilhar 9
+Empilhar 59
+Empilhar 9
+Empilhar -51
+Empilhar 20
+Empilhar -73
+Empilhar 38
+Empilhar -82
+Empilhar 44
+Empilhar 76
+Imprimir
+Finalizar
+
+
+Empilhar -92
+Empilhar -64
+Empilhar 39
+Empilhar 67
+Empilhar 65
+Empilhar 58
+Empilhar 75
+Empilhar 26
+Empilhar 29
+Empilhar -55
+Empilhar -37
+Empilhar -7
+Empilhar 16
+Empilhar -91
+Imprimir
+Finalizar
+
+
+Empilhar 83
+Empilhar 53
+Empilhar 4
+Empilhar 19
+Empilhar -1
+Empilhar -76
+Empilhar 41
+Empilhar -76
+Empilhar 11
+Empilhar -70
+Empilhar -33
+Empilhar 58
+Imprimir
+Finalizar
+
+
+Imprimir
+Finalizar
+
+
+Empilhar 20
+Empilhar 81
+Empilhar 37
+Empilhar -42
+Imprimir
+Finalizar
+
+
+Empilhar -91
+Empilhar 75
+Empilhar 89
+Empilhar -96
+Empilhar -96
+Empilhar 8
+Empilhar -32
+Empilhar -72
+Empilhar -80
+Empilhar 51
+Empilhar 9
+Empilhar -57
+Empilhar 71
+Empilhar 58
+Empilhar 11
+Imprimir
+Finalizar
+
+
+Empilhar 63
+Empilhar -10
+Empilhar 16
+Empilhar -41
+Empilhar 33
+Empilhar 86
+Imprimir
+Finalizar
+
+
+Empilhar -99
+Empilhar 0
+Empilhar 100
+Empilhar 6
+Empilhar -56
+Empilhar 22
+Imprimir
+Finalizar
+
+
+Empilhar -95
+Empilhar -67
+Empilhar 75
+Empilhar 20
+Imprimir
+Finalizar
+
+
+Empilhar 88
+Empilhar -67
+Empilhar 28
+Empilhar 48
+Empilhar 77
+Empilhar 38
+Empilhar -76
+Empilhar 14
+Empilhar 9
+Empilhar 96
+Empilhar 47
+Empilhar -45
+Empilhar 17
+Empilhar -96
+Empilhar -45
+Empilhar -83
+Empilhar 31
+Empilhar 26
+Imprimir
+Finalizar
+
+
+Empilhar -100
+Imprimir
+Finalizar
+
+
+Empilhar -23
+Empilhar 95
+Empilhar 3
+Imprimir
+Finalizar
+
+
+Imprimir
+Finalizar
+
+
+Imprimir
+Finalizar
+
+
+Empilhar 10
+Empilhar 43
+Empilhar -34
+Empilhar -90
+Empilhar 86
+Empilhar 99
+Empilhar -50
+Empilhar 7
+Empilhar -56
+Empilhar 4
+Empilhar -55
+Empilhar -31
+Empilhar 11
+Empilhar -64
+Empilhar 99
+Empilhar -8
+Empilhar -1
+Empilhar -85
+Empilhar 83
+Imprimir
+Finalizar
+
+
+Empilhar 82
+Empilhar -87
+Empilhar 5
+Empilhar 28
+Empilhar 50
+Empilhar -69
+Empilhar 28
+Empilhar 10
+Empilhar -43
+Empilhar 7
+Empilhar 78
+Empilhar -39
+Empilhar -14
+Empilhar 72
+Empilhar 39
+Empilhar -78
+Empilhar 27
+Empilhar 46
+Imprimir
+Finalizar
+
+
+Empilhar 100
+Empilhar -16
+Empilhar 97
+Empilhar 94
+Imprimir
+Finalizar
+
+
+Empilhar -29
+Empilhar 43
+Empilhar -51
+Empilhar 53
+Imprimir
+Finalizar
+
+
+Empilhar 88
+Empilhar -40
+Empilhar -100
+Empilhar 74
+Empilhar 80
+Empilhar 26
+Empilhar -31
+Imprimir
+Finalizar
+
+
+Empilhar -52
+Empilhar 75
+Empilhar 63
+Empilhar -78
+Empilhar -64
+Empilhar 70
+Empilhar -54
+Empilhar -54
+Empilhar 12
+Empilhar -13
+Empilhar 25
+Empilhar 7
+Empilhar -90
+Empilhar 8
+Empilhar 89
+Imprimir
+Finalizar
+
+
+Empilhar 100
+Empilhar -96
+Empilhar 94
+Empilhar -73
+Empilhar -33
+Empilhar -27
+Empilhar -83
+Empilhar 19
+Empilhar 51
+Imprimir
+Finalizar
+
+
+Empilhar -28
+Empilhar 4
+Empilhar -16
+Empilhar 62
+Empilhar 96
+Empilhar -16
+Empilhar -88
+Empilhar 43
+Empilhar -77
+Empilhar -21
+Empilhar -17
+Empilhar -49
+Empilhar 91
+Empilhar 40
+Empilhar -73
+Empilhar 27
+Empilhar 66
+Empilhar -14
+Imprimir
+Finalizar
+
+
+Empilhar -20
+Empilhar 79
+Empilhar 32
+Empilhar 68
+Empilhar -99
+Empilhar -14
+Empilhar -100
+Empilhar -59
+Imprimir
+Finalizar
+
+
+Empilhar 78
+Empilhar -79
+Empilhar -43
+Empilhar 96
+Empilhar 41
+Empilhar 49
+Empilhar 36
+Empilhar -22
+Empilhar 74
+Empilhar 42
+Empilhar 81
+Empilhar 82
+Empilhar -44
+Empilhar 20
+Empilhar 38
+Empilhar -27
+Empilhar -17
+Empilhar 0
+Empilhar -23
+Imprimir
+Finalizar
+
+
+Empilhar -75
+Empilhar 31
+Empilhar -4
+Empilhar 82
+Empilhar -57
+Empilhar 9
+Imprimir
+Finalizar
+
+
+Empilhar -42
+Empilhar -5
+Empilhar 47
+Empilhar 93
+Empilhar 63
+Empilhar 24
+Empilhar -41
+Empilhar 33
+Empilhar -61
+Empilhar 10
+Empilhar -92
+Empilhar -96
+Empilhar 85
+Empilhar -81
+Empilhar 77
+Empilhar 42
+Empilhar -52
+Empilhar 86
+Imprimir
+Finalizar
+
+
+Empilhar -94
+Empilhar 7
+Empilhar -24
+Empilhar -55
+Empilhar 36
+Empilhar 73
+Empilhar 15
+Empilhar -63
+Empilhar -54
+Empilhar -69
+Empilhar -73
+Empilhar 5
+Empilhar -12
+Empilhar 61
+Empilhar -82
+Empilhar 54
+Imprimir
+Finalizar
+
+
+Empilhar -60
+Empilhar -40
+Empilhar -63
+Empilhar 72
+Empilhar -53
+Empilhar 16
+Empilhar -5
+Empilhar -91
+Empilhar 66
+Empilhar 77
+Empilhar -60
+Empilhar -70
+Empilhar 61
+Empilhar 61
+Empilhar 15
+Empilhar 21
+Empilhar 25
+Empilhar -64
+Empilhar 98
+Empilhar 72
+Imprimir
+Finalizar
+
+
+Empilhar -84
+Empilhar -31
+Empilhar 19
+Empilhar 15
+Empilhar -15
+Imprimir
+Finalizar

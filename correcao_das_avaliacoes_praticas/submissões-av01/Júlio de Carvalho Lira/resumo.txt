@@ -1,0 +1,5 @@
+questao1 - 100
+questao2 - 0 (erro de sintaxe, questao incompleta)
+questao3 - 0 (questão não recebida)
+questao4 - 0 (questão não recebida)
+total = 100

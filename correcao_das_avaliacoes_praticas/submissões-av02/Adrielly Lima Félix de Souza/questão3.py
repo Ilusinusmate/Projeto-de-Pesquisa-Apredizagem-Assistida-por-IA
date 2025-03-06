@@ -1,0 +1,1 @@
+fita = str(input())

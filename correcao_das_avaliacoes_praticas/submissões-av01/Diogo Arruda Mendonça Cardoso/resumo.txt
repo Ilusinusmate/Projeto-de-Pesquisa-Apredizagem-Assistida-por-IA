@@ -1,0 +1,5 @@
+questao1 - 100
+questao2 - 0 (gerou erro, "k is not defined")
+questao3 - 50 (ordem de execução, sem parentesis)
+questao4 - 0 (não enviou questão)
+total = 150

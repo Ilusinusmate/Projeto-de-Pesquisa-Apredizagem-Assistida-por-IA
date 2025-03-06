@@ -1,0 +1,10 @@
+questão1 - 100
+questão2 - 60 (subtarefa 2 gera erro [EOFFerror])
+questão3 - 70 (subtarefa 2 errada, utiliza int ao invés de float)
+questão4 - 32 (-68 pontos[
+    erros:
+    subatefa 2 (4/10)
+    subtarefa 3 completa
+    subatefa 4 completa
+]) (considerou 1 como primo)
+total = 262

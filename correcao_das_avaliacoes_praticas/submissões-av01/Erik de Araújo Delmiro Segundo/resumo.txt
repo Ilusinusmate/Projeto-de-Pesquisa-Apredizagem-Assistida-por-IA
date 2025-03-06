@@ -1,0 +1,5 @@
+questão1 - 100
+questão2 - 0 (questão não enviada)
+questão3 - 0 (prints de resultado indesejado ou em excesso, uso de int ao invés de float gerando erro)
+questão4 - 0 (resltado da saída obtida diferente do esperado)
+total = 100

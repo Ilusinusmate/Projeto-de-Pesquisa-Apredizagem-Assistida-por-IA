@@ -1,0 +1,5 @@
+questão1 - 100
+questão2 - 100
+questão3 - 100
+questão4 - 100
+total = 400

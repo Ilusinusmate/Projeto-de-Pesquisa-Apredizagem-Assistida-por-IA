@@ -1,0 +1,8 @@
+valor1=float(input()) 
+valor2 =float(input())
+valor3=float(input())
+valor4=float(input())
+valor1=print("neutro")
+valor2=print("acido")
+valor3=print("basico")
+valor4=print("fora de escala")

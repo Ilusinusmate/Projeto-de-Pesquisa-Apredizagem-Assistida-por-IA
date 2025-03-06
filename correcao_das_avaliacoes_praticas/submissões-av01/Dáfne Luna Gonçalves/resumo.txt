@@ -1,0 +1,5 @@
+questao1 - 100
+questao2 - 80 (deveria printar 0)
+questao3 - 57 (erro na ordem de execução)
+questao4 - 0 (não dá print em nada)
+total = 237
